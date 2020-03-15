@@ -2,7 +2,8 @@
 convert Bad Apple video into chars and play in console
 you should change file name in video2frame.py if you want to convert other video
 
-#How to use
+# How to use
+
 Step1
 put video in the same directory with codes
 run video2frame.py
