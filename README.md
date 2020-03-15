@@ -1,6 +1,8 @@
 # Bad_Apple_in_text
 convert Bad Apple video into chars and play in console
 
+see my output at https://www.youtube.com/watch?v=_oEE_CShq9Q
+
 you should change file name in video2frame.py if you want to convert other video
 
 # How to use
