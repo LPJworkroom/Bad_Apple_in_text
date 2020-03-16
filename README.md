@@ -5,6 +5,11 @@ see my output at https://www.youtube.com/watch?v=_oEE_CShq9Q
 
 you should change file name in video2frame.py if you want to convert other video
 
+```
+def run():
+    captured: VideoCapture = cv.VideoCapture('your-video-name.mp4')
+```
+
 # How to use
 
 Step1
